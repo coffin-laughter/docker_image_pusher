@@ -1,3 +1,1 @@
-coffinlaughter/php:8.3.6-fpm-bullseye
-coffinlaughter/php:8.3.6-apache-bullseye
-nginx:latest
+redis:6.2.14
