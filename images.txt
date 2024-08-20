@@ -1,1 +1,1 @@
-redis:6.2.14-alpine
+coffinlaughter/php:8.3.10-fpm-alpine
