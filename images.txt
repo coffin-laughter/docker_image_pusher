@@ -1,1 +1,1 @@
-coffinlaughter/php:8.3.10-fpm-nginx-alpine
+coffinlaughter/php:8.3.10-fpm-nginx-alpin
