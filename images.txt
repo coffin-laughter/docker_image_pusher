@@ -1,1 +1,2 @@
-coffinlaughter/php:8.3.10-fpm-nginx-alpin
+redis:6.2.16-alpine
+mysql:5.7.44
