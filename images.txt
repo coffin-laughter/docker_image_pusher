@@ -1,2 +1,1 @@
-redis:6.2.16-alpine
-mysql:5.7.44
+coffinlaughter/php:7.4.33-apache-bullseye
