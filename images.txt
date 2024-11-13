@@ -1,1 +1,1 @@
-coffinlaughter/php:7.4.33-apache-bullseye
+chishin/nginx-proxy-manager-zh:release
