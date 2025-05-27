@@ -1,1 +1,1 @@
-coffinlaughter/php:7.4.33-fpm-nginx-alpine
+--platform=linux/arm64 coffinlaughter/php:7.4.33-fpm-nginx-alpine
