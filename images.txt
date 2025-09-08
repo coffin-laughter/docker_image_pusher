@@ -1,1 +1,5 @@
---platform=linux/arm64 coffinlaughter/php:7.4.33-fpm-nginx-alpine
+nginx:1.29.1
+coffinlaughter/php:7.4.33-fpm-nginx-alpine
+coffinlaughter/php:7.4.33-apache-bullseye
+coffinlaughter/node:14.21.3-bullseye
+coffinlaughter/node:16.20.2-bullseye
