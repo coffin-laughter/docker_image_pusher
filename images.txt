@@ -1,1 +1,1 @@
-chishin/nginx-proxy-manager-zh:release
+python:3.11-slim
