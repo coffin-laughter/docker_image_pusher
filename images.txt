@@ -1,1 +1,1 @@
-gitea/gitea:1.25.3
+--platform linux/arm64 jenkins/jenkins:2.543
