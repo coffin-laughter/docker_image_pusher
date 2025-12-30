@@ -1,1 +1,1 @@
---platform linux/arm64 act_runner:nightly
+--platform linux/arm64 gitea/act_runner:nightly
