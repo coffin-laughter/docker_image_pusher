@@ -1,1 +1,1 @@
---platform linux/arm64 jenkins/jenkins:2.543
+--platform linux/arm64 act_runner:nightly
