@@ -1,2 +1,1 @@
-gitea/gitea:1.25-nightly
-gitea/act_runner:nightly
+mysql:8.0.44
