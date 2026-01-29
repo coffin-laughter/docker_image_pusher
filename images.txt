@@ -1,1 +1,4 @@
-mysql:8.0.44
+prom/prometheus:latest
+grafana/grafana:latest
+prom/node-exporter:latest
+prom/alertmanager:latest
