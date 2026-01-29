@@ -1,4 +1,4 @@
-prom/prometheus:latest
-grafana/grafana:latest
-prom/node-exporter:latest
-prom/alertmanager:latest
+--platform=linux/amd64 prom/prometheus:latest
+--platform=linux/amd64 grafana/grafana:latest
+--platform=linux/amd64 prom/node-exporter:latest
+--platform=linux/amd64 prom/alertmanager:latest
