@@ -1,5 +1,5 @@
 goharbor/redis-photon:v2.1.4
-goharbor/clair-adapter-photon:.1.4
+goharbor/clair-adapter-photon:v2.1.4
 goharbor/harbor-registryctl:v2.1.4
 goharbor/registry-photon:v2.1.4
 goharbor/nginx-photon:v2.1.4
