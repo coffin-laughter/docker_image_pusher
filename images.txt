@@ -1,4 +1,13 @@
---platform=linux/amd64 prom/prometheus:latest
---platform=linux/amd64 grafana/grafana:latest
---platform=linux/amd64 prom/node-exporter:latest
---platform=linux/amd64 prom/alertmanager:latest
+goharbor/redis-photon:v2.1.4
+goharbor/clair-adapter-photon:.1.4
+goharbor/harbor-registryctl:v2.1.4
+goharbor/registry-photon:v2.1.4
+goharbor/nginx-photon:v2.1.4
+goharbor/harbor-log:v2.1.4
+goharbor/harbor-jobservice:v2.1.4
+goharbor/harbor-core:v2.1.4
+goharbor/harbor-portal:v2.1.4
+goharbor/harbor-db:v2.1.4
+goharbor/prepare:v2.1.4
+goharbor/clair-photon:v2.1.4
+goharbor/chartmuseum-photon:v2.1.4
