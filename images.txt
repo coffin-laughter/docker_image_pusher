@@ -1,1 +1,1 @@
---platform=linux/arm64 postgis/postgis:17-3.6-alpine
+--platform=linux/arm64 postgres:17.9
