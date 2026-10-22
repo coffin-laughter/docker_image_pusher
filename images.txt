@@ -1,1 +1,1 @@
-steedos/steedos-community
+coffinlaughter/php:7.4.34-apache
