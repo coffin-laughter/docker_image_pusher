@@ -1,2 +1,1 @@
-coffinlaughter/php:8.4.27-fpm-nginx-alpine3.24
-
+node:22-bookworm-slim
