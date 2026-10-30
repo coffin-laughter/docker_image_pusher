@@ -1,1 +1,1 @@
-node:22-bookworm-slim
+coffinlaughter/php:7.3.34-apache-bullsers
