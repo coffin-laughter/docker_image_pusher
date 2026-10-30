@@ -1,1 +1,1 @@
-coffinlaughter/php:7.3.34-apache-bullsers
+coffinlaughter/php:8.3.36-fpm-nginx-alpine3.24
