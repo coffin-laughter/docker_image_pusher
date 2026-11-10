@@ -1,1 +1,1 @@
-coffinlaughter/php:7.4.34-apache-bullseye
+mysql:8.4.13
