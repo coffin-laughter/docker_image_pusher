@@ -1,1 +1,1 @@
-mysql:8.4.13
+container-registry.oracle.com/mysql/community-router:8.4
