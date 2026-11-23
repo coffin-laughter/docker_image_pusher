@@ -1,1 +1,1 @@
-shinsenter/php:8.4-fpm
+coffinlaughter/php:8.4.28-fpm-nginx-alpine3.24
